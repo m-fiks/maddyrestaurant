@@ -1,0 +1,16 @@
+/*
+primary: #ec407a (hot pink), #ff77a8 (light pink), #b5004d (darker)
+secondary: #b2ff59(lime green), #e7ff8c (light green), #7ecb20 (darker) 
+
+
+*/
+
+
+body{
+background-color:#ec407a;
+}
+
+h1,h2{
+    font-family: 'Roboto Slab', serif;
+}
+
